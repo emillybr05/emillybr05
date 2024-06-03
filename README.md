@@ -1,7 +1,7 @@
 ## Bem vindo! ⭐
 
 
-Meu nome é **Julia Emilly**!
+Meu nome é **Julia Emilly e Maria Nogueira**!
 
 Estou estudando na Alura.
 
